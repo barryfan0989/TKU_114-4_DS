@@ -1,0 +1,3 @@
+interface Compressible {
+    void compress();
+}
